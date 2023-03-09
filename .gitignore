@@ -1,0 +1,10 @@
+/node_modules
+.env
+files.js
+global.js
+lorem.js
+modules.js
+people.js
+server.js
+streams.js
+test.js
